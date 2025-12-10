@@ -1,3 +1,8 @@
+#GKE L400 labs
+
+[L400 labs](https://explore.qwiklabs.com/course_templates/1441196)
+
+
 # gke-loadtesting
 This document summarizes the discussion about the `gke-workload-autoscaling` test setup.
 
